@@ -1,9 +1,9 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/mern-starter
+    working_directory: ~/test_app
     docker:
-      - image: circleci/node:7.10.0
+      - image: circleci/node:4.8.2
     steps:
       - checkout
       - run:
