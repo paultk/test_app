@@ -7,6 +7,7 @@ export default class App extends React.Component {
 
     func1 = () => {
         return true;
+
     };
 
   render() {
