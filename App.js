@@ -6,7 +6,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default class App extends React.Component {
 
     func1 = () => {
-        return true;
+        return false;
 
     };
 
