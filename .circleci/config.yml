@@ -6,7 +6,6 @@ jobs:
      steps:
        - checkout
        - run: echo "hello world"
-#
 #version: 2
 #jobs:
 #  build:
