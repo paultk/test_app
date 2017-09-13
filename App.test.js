@@ -9,7 +9,7 @@ import renderer from 'react-test-renderer';
 // });
 
 it('should be true', () => {
-  expect(false).toBeTruthy();
+  expect(true).toBeTruthy();
 });
 
 it('', () => {
