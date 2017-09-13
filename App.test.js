@@ -7,6 +7,8 @@ import App from './App';
 //   expect(rendered).toBeTruthy();
 // });
 
+// something
+
 it('should be true', () => {
   expect(true).toBeTruthy();
 });
