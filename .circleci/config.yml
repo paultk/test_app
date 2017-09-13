@@ -18,7 +18,8 @@ jobs:
       - checkout
       - run:
             name: list
-            command: 'ls -a'      - run:
+            command: 'ls -a'
+      - run:
             name: node version
             command: 'node -v'
       - run:
